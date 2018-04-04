@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:20:1-53:12
+INJECTED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:20:1-53:12
+INJECTED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:20:1-53:12
+MERGED from [com.android.support:support-v13:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.0.aar\c87befe1833ec0c058ea4102a0e0c222\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\5977a08a4a22e059debffeea1677842a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\da8ce02be61170e4777e6b23ad643c77\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\057b39cc66b34950d11e364b3c824953\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\6cb4354d7e9c6bc27d8fa1063f86e4e6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\f0386cc63bfc49dc138caa70bc17542d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\79c340fb2ec14012fc55d6637c716d0b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ff86df11781316d4a20e6f5b9cd7b605\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\fbd79a3f7877c6a0ed0039ec8b55d14b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\ca925d78b0ea320ca5593bd4c759201b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\62b0f7a2fcf6b07e9f211e4cbd7c7127\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\94464b10604e74a503abc516fc800c25\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\fe7d503c5bfcc1ffc50f4c250744f79a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\8b80c6818b688a93668e8faa30da433f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\4b67ec46a8e149e23fc0645062291f96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\ece03dbdb85abe6e6993c7fbff133572\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f988c897a38c95a9280558ba9e02d7da\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cca735db421b68099e3b2ed89db702f7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\39eb2e680cce0d6a818f9b5562caadf6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\d3da6d335d9e4b05f2c20439d442edbb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\36134ed2dab20c67217e383903f781c9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\3d237b63ca7099f14866774544217ee2\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f7273798506a14afb13069bb095e110\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:20:1-53:12
+INJECTED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:20:1-53:12
+	package
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:21:5-50
+	android:versionName
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:20:11-69
+	android:versionCode
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:22:5-28
+		INJECTED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:31:5-89
+	android:required
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:31:64-87
+	android:name
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:31:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:33:5-68
+	android:name
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:34:5-74
+	android:name
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:34:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:36:5-79
+	android:name
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:36:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:37:5-81
+	android:name
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:37:22-78
+application
+ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:39:5-51:19
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\5977a08a4a22e059debffeea1677842a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\5977a08a4a22e059debffeea1677842a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\da8ce02be61170e4777e6b23ad643c77\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\da8ce02be61170e4777e6b23ad643c77\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\057b39cc66b34950d11e364b3c824953\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\057b39cc66b34950d11e364b3c824953\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\6cb4354d7e9c6bc27d8fa1063f86e4e6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\6cb4354d7e9c6bc27d8fa1063f86e4e6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\ece03dbdb85abe6e6993c7fbff133572\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\ece03dbdb85abe6e6993c7fbff133572\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\d3da6d335d9e4b05f2c20439d442edbb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\d3da6d335d9e4b05f2c20439d442edbb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\36134ed2dab20c67217e383903f781c9\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\36134ed2dab20c67217e383903f781c9\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\3d237b63ca7099f14866774544217ee2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\3d237b63ca7099f14866774544217ee2\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:39:18-50
+	android:icon
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:40:9-45
+	android:theme
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:41:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:42:9-48:20
+	android:label
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:43:13-45
+	android:name
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:42:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:45:17-68
+	android:name
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:46:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:49:9-58
+	android:name
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:49:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:50:9-77
+	android:enabled
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:50:53-75
+	android:name
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml:50:18-52
+uses-sdk
+INJECTED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.0.aar\c87befe1833ec0c058ea4102a0e0c222\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.0.aar\c87befe1833ec0c058ea4102a0e0c222\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\5977a08a4a22e059debffeea1677842a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\5977a08a4a22e059debffeea1677842a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\da8ce02be61170e4777e6b23ad643c77\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\da8ce02be61170e4777e6b23ad643c77\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\057b39cc66b34950d11e364b3c824953\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\057b39cc66b34950d11e364b3c824953\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\6cb4354d7e9c6bc27d8fa1063f86e4e6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\6cb4354d7e9c6bc27d8fa1063f86e4e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\f0386cc63bfc49dc138caa70bc17542d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\f0386cc63bfc49dc138caa70bc17542d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\79c340fb2ec14012fc55d6637c716d0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\79c340fb2ec14012fc55d6637c716d0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ff86df11781316d4a20e6f5b9cd7b605\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ff86df11781316d4a20e6f5b9cd7b605\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\fbd79a3f7877c6a0ed0039ec8b55d14b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\fbd79a3f7877c6a0ed0039ec8b55d14b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\ca925d78b0ea320ca5593bd4c759201b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\ca925d78b0ea320ca5593bd4c759201b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\62b0f7a2fcf6b07e9f211e4cbd7c7127\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\62b0f7a2fcf6b07e9f211e4cbd7c7127\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\94464b10604e74a503abc516fc800c25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\94464b10604e74a503abc516fc800c25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\fe7d503c5bfcc1ffc50f4c250744f79a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\fe7d503c5bfcc1ffc50f4c250744f79a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\8b80c6818b688a93668e8faa30da433f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\8b80c6818b688a93668e8faa30da433f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\4b67ec46a8e149e23fc0645062291f96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\4b67ec46a8e149e23fc0645062291f96\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\ece03dbdb85abe6e6993c7fbff133572\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\ece03dbdb85abe6e6993c7fbff133572\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f988c897a38c95a9280558ba9e02d7da\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f988c897a38c95a9280558ba9e02d7da\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cca735db421b68099e3b2ed89db702f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cca735db421b68099e3b2ed89db702f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\39eb2e680cce0d6a818f9b5562caadf6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\39eb2e680cce0d6a818f9b5562caadf6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\d3da6d335d9e4b05f2c20439d442edbb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\d3da6d335d9e4b05f2c20439d442edbb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\36134ed2dab20c67217e383903f781c9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\36134ed2dab20c67217e383903f781c9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\3d237b63ca7099f14866774544217ee2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\3d237b63ca7099f14866774544217ee2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f7273798506a14afb13069bb095e110\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f7273798506a14afb13069bb095e110\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Benedikt\Documents\GitHub\android-BluetoothLeGatt-google\Application\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\da8ce02be61170e4777e6b23ad643c77\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\da8ce02be61170e4777e6b23ad643c77\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\da8ce02be61170e4777e6b23ad643c77\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\da8ce02be61170e4777e6b23ad643c77\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\6cb4354d7e9c6bc27d8fa1063f86e4e6\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\6cb4354d7e9c6bc27d8fa1063f86e4e6\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Benedikt\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\6cb4354d7e9c6bc27d8fa1063f86e4e6\AndroidManifest.xml:24:13-58
